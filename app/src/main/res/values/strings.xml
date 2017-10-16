@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrawerTablets</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tools_text_account_information_username">Delaroy Studios</string>
+    <string name="tools_text_account_information_email">bamoyk@yahoo.com</string>
+
+</resources>
